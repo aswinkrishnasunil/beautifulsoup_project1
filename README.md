@@ -1,4 +1,4 @@
-Certainly! Here's a README file for your code:
+
 
 ```markdown
 # Stock Data Scraping and Storage
